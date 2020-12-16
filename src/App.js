@@ -31,7 +31,7 @@ color: ${props => props.theme.colors.white};
 `
 
 //http://api.openweathermap.org/data/2.5/weather?q={location}&appid={API_KEY}
-const API_KEY = "40632f4d2197a0d082b704e2c1f54fef";
+const API_KEY = "open_weather_map_api_key";
 
 class App extends React.Component{
     constructor(){
